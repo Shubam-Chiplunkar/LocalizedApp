@@ -1,0 +1,9 @@
+/* 
+  LocalizableString.strings
+  LocalizeApp
+
+  Created by mayank ranka on 09/05/23.
+  
+*/
+"FirstNameKey" = "हेलो यह लोकलाइज़ ऐप है";
+"LastNameKey" = "हेलो यह लोकलाइज़ ऐप है";

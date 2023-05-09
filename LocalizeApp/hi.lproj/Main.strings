@@ -1,0 +1,9 @@
+
+/* Class = "UITextField"; placeholder = "Select your language"; ObjectID = "p62-lS-31k"; */
+"p62-lS-31k.placeholder" = "Select your language";
+
+/* Class = "UILabel"; text = "Hello this is Localize app "; ObjectID = "rIY-kw-eVe"; */
+"rIY-kw-eVe.text" = "Hello this is Localize app ";
+
+/* Class = "UILabel"; text = "Hello this is Localize app "; ObjectID = "vQG-jV-Gbj"; */
+"vQG-jV-Gbj.text" = "Hello this is Localize app ";
